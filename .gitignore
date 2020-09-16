@@ -106,9 +106,6 @@ modules.xml
 hs_err_pid*
 
 ### Maven ###
-!target/test-classes/
-!target/dependency/
-target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
